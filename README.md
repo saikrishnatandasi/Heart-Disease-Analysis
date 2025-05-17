@@ -36,6 +36,5 @@ The interactive dashboard visualizes critical metrics with:
 - **Machine Learning**: Random Forest Classifier
 - **Statistical Analysis**: SciPy
 
-\
 
 #DataAnalytics #HealthcareAnalytics #MachineLearning #Python #PowerBI #DataScience #HeartDisease #DataVisualization #RandomForest
